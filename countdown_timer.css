@@ -1,0 +1,29 @@
+div #countdown_days, #countdown_hours, #countdown_minutes, #countdown_seconds {
+  font-size: 75px;
+  color: red;
+  margin-left: 200px;
+  width: 100px;
+  display:inline-block;
+  margin-top: 175px;
+}
+div #countdown_days_label, #countdown_hours_label, #countdown_minutes_label, #countdown_seconds_label {
+  font-size: 35px;
+  color: white;
+  margin-left: 195px;
+  width: 100px;
+  display:inline-block;
+  margin-top: 10px;
+}
+div #countdown_place , #countdown_labels{
+	width: 1500px;
+	overflow: auto;
+	
+}
+div #countdown_labels , #countdown_place{
+	width: 1500px;
+	overflow: auto;
+	
+}
+body {
+	background-color: black;
+}
